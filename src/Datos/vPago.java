@@ -3,7 +3,7 @@ package Datos;
 
 import java.sql.Date;
 
-
+//prueba
 public class vPago {
     
     private int idpago;
